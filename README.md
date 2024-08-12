@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=+Wellcome+To my Github!; T+H+E+S+E+W+E+R+Developer !; check+my+Repository!; Hopefully,+it+will+inspire+others….!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 <!--
 **thesewer/thesewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
